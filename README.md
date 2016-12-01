@@ -1,3 +1,4 @@
+I may not get too much time to actively maintain this. I can add ownership if anyone is interested
 
 # Java library for encryption for push notification payloads for the browser push API
 
