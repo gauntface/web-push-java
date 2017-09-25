@@ -1,4 +1,4 @@
-Please use https://github.com/web-push-libs/webpush-java instead. That has better feature compatibility and is more avtively maintained :-)
+Please use https://github.com/web-push-libs/webpush-java instead. That has better feature compatibility and is more actively maintained :-)
 
 I may not get too much time to actively maintain this. I can add ownership if anyone is interested
 
